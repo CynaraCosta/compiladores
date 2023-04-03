@@ -44,6 +44,7 @@ class RPNStacker {
     // 5
     // *
     // +
+    // = 22
     String expression = "43*25*+";
     System.out.println(postfixRPN(expression));
   }
